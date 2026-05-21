@@ -45,4 +45,23 @@ source .venv/bin/activate.fish
 # Eksekusi instalasi
 pip install -e .
 
+#Cara pakai Decode
+N-decode "NDM1NDQ2N2I2ODM0NjM2YjMzN2I3ZA=="
+
+Outputnya : 
+[+] Berhasil menebak 'NDM1NDQ2N2I2ODM0NjM2YjMzN2I3ZA==':
+    ➔ Base64: 4354467b6834636b33727d
+    ➔ Hex: CTF{h4ck3r}
+
+#Cara Pakai Encode
+N-encode "Halo Hakim"
+
+Outputnya :
+[+] Hasil Encode untuk 'Halo Hakim':
+    ➔ Base64: SGFsbyBIYWtpbQ==
+    ➔ Hex: 48616c6f2048616b696d
+    ➔ URL Encode: Halo%20Hakim
+    ➔ ROT13: Unyb Unxvz
+
+"Sebab jika Anda tidak punya auto-decoder yang bagus, Anda bisa terjebak di tantangan selamanya. Ingat: Better Call Nala!" 
 
