@@ -63,5 +63,13 @@ Outputnya :
     ➔ URL Encode: Halo%20Hakim
     ➔ ROT13: Unyb Unxvz
 
+#Installasi 
+
+1. Untuk pengguna Linux biasa (lewat pipx agar aman dan global)
+    " pipx install NGKRIP "
+
+2. Atau jika di dalam Virtual Environment (venv)
+    " pip install NGKRIP "
+
 "Sebab jika Anda tidak punya auto-decoder yang bagus, Anda bisa terjebak di tantangan selamanya. Ingat: Better Call Nala!" 
 
