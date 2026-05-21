@@ -1,0 +1,48 @@
+# ⚖️ NalaGoodman's Encoder-Tools
+
+```text
+   ▄▄      ▄▄▄  ▄   ▄▄▄▄   ▄▄▄▄   ▄▄▄   ▄▄▄▄▄▄      ▄▄▄▄▄▄  ▄▄▄▄▄▄ 
+   ██▄    ██▀   ▀██████▀  █▀ ██  ██    █▀██▀▀▀█▄  █▀ ██   █▀██▀▀▀█▄
+   ███▄   ██      ██   ▄     ██ ██       ██▄▄▄█▀     ██     ██▄▄▄█▀
+   ██ ▀█▄██      ██  ██     █████       ██▀▀█▄      ██     ██▀▀▀   
+   ██   ▀██      ██  ██     ██ ██▄    ▄ ██  ██      ██    ▄ ██     
+ ▀██▀    ██      ▀█████   ▀██▀  ▀██▄  ▀██▀  ▀██▀  ▄▄██▄▄ ▀██▀      
+                  ▄   ██                                         
+                  ▀████▀                                         
+====================================================================
+               ⚖️  Nala Goodman | Attorney at Code
+====================================================================
+> *"Did you know that you have rights? The Constitution says you do, and so do your encrypted strings! Don't let those CTF sheriffs lock your data away in Base64 or Hex without due process."* 
+> — **Nala Goodman, Attorney at Code**
+
+---
+
+`N-decode` & `N-encode` adalah perangkat taktis CLI (*Command Line Interface*) ringan yang dirancang khusus untuk para praktisi *cybersecurity*, pemain CTF, dan *developer* yang butuh keadilan cepat di terminal. 
+
+Jika terminal Anda tertangkap basah membawa *string* mencurigakan, Anda tidak butuh detektif—**Anda butuh Nala Goodman!**
+
+---
+
+## ⚡ FITUR UTAMA (Urusan Hukum yang Kami Selesaikan)
+
+*   **N-decode (The Auto-Defender):** Sistem tebakan otomatis berteknologi tinggi. Masukkan teks acak apa saja, dan *tool* ini akan mendeteksi serta membebaskannya dari jeratan **Base64, Hexadecimal, URL Encode,** hingga **ROT13** secara instan. Tanpa eror, tanpa basa-basi.
+*   **N-encode (The Cover-Up):** Butuh menyembunyikan barang bukti (*payload*) dengan cepat sebelum dikirim lewat jaringan? Amankan teks biasa Anda ke berbagai format enkoding dalam sekali pencet.
+
+---
+
+## 🛠️ CARA INSTALASI (Bebas Jaminan)
+
+Karena Anda menggunakan Linux modern, pastikan Anda berada di dalam *Virtual Environment* Anda, lalu instal *tools* ini dalam mode pengembangan:
+
+```bash
+# Clone repositori ini
+git clone [https://github.com/username_githubmu/encoder-tools.git](https://github.com/username_githubmu/encoder-tools.git)
+cd encoder-tools
+
+# Aktifkan venv Anda (Contoh untuk Fish Shell)
+source .venv/bin/activate.fish
+
+# Eksekusi instalasi
+pip install -e .
+
+

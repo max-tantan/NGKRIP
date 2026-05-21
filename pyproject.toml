@@ -1,0 +1,22 @@
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "NGKRIP"
+version = "0.2.0"
+authors = [
+  { name = "Nala Goodman" }
+]
+description = "Toolkit ringan untuk encoding dan decoding CTF"
+requires-python = ">=3.8"
+
+[project.scripts]
+NG-decode = "encoder_tools.cli:main"
+NG-encode = "encoder_tools.cli_encode:main"
