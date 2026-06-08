@@ -12,6 +12,7 @@
 ====================================================================
                ⚖️  Nala Goodman | Attorney at Code
 ====================================================================
+```
 > *"Did you know that you have rights? The Constitution says you do, and so do your encrypted strings! Don't let those CTF sheriffs lock your data away in Base64 or Hex without due process."* 
 > — **Nala Goodman, Attorney at Code**
 
